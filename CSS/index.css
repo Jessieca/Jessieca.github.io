@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #286940;
+    letter-spacing: 2px;
+    background:"#d0d0d0"
+}
+
+header{
+   text-align:right;
+   padding-bottom:5px;
+   border-bottom:1px solid #863B3B;
+}
+
+nav a{
+    margin-left:10px;
+    font-weight:normal;
+    text-decoration:none;
+}
+
+a{
+  color: #8b00e0;
+  font-weight:bold;  
+}
+
+a:visited{
+    color:#5F5F5F;
+    text-decoration:underline;
+}
+
+h1{
+    font-size:90px;
+    color:#AF2865;
+    margin:0;
+    line-height:1;
+    padding:0;
+}
+
+#logo{
+    float:right;
+    margin:12px 50px;
+    border:1px dotted #FF9D00;
+}
+
+#top-container{
+    margin:20px 0 50px 50px;
+}
+
+#info_container{
+    font-size: 22px;
+}
+
+.orange{
+    color:#AF2865;
+    font-weight:bold;
+    font-size:36px;
+}
+
+#marquee_container{
+    border-top:1px solid #5f5f5f;
+    border-bottom:1px solid #5f5f5f;
+    padding:30px 0 30px 0;
+    margin:0 50px;
+    text-align: center;
+    font-size: 26px;
+    line-height: 1.6
+}
+
+#website_list_container{
+    margin:30px 0 20px 50px;
+}
+
+#about h3 {
+    text-align: center;
+    font-size: 34px;
+    line-height: 54px;
+    color: #ff9933;
+
+}
+
+#about #content {
+    width: 80%;
+    max-width: 750px;
+    margin: auto; 
+}
